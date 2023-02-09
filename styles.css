@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-main{
+/* main{
 	width : 150px;
 	height:150px;
 	background-color: black;
@@ -10,4 +10,16 @@ p{
 	margin-left : 32px 
 	padding : 10px
 }
- 
+  */
+
+.accio {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+}
+
+.hello-accio {
+  color: white;
+  margin-left: 32px;
+  padding: 10px;
+}
